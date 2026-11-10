@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://palmbayweightloss.com/sitemap.xml
